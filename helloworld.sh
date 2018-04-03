@@ -1,3 +1,4 @@
 #!/bin/sh
 
-echo Hello World
+read Hello!
+echo hi back
